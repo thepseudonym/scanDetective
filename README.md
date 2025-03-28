@@ -10,3 +10,12 @@ Tool for scan your or not your😈 Wi-Fi network for connected devices
 </div>
 
 ![Screenshot_2025-03-28_15_01_555](https://github.com/user-attachments/assets/8d79864c-24b5-4798-8df4-43d0fb2c9a0e)
+
+# Requirements
+1. [Python 3.13.0 or newer](https://www.python.org/downloads/)
+2. [Scapy](https://pypi.org/project/scapy/)
+
+# Usage
+1. `cd scanDetective`
+2. `sudo python3 scandetective.py`
+3. `Type your IP range: 0.0.0.0/24 <- Your IP`
