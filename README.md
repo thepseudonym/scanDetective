@@ -20,6 +20,9 @@ Tool for scan your or not your😈 Wi-Fi network for connected devices
 2. `sudo python3 scandetective.py`
 3. `Type your IP range for example: 0.0.0.0/24 Where 24 scans everything on the network`
 
+# Works fine with
+[arpSpoofy](https://github.com/thepseudonym/arpSpoofy/)
+[pcktSniffy](https://github.com/thepseudonym/pcktSniffy/)
 # License
 <a href="https://github.com/thepseudonym/scanDetective/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE"> 
