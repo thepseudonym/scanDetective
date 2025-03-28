@@ -18,4 +18,4 @@ Tool for scan your or not your😈 Wi-Fi network for connected devices
 # Usage
 1. `cd scanDetective`
 2. `sudo python3 scandetective.py`
-3. `Type your IP range: 0.0.0.0/24 <- Your IP`
+3. `Type your IP range for example: 0.0.0.0/24 Where 24 scans everything on the network`
