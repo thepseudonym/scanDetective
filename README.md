@@ -2,8 +2,8 @@
 Tool for scan your or not your😈 Wi-Fi network for connected devices
 
 <div align="center">
-<a href="https://github.com/thepseudonym/scanDetective" title="Go to GitHub repo">
-  <img src="https://img.shields.io/static/v1?label=thepseudonym&message=scanDetective&color=purple&logo=github" alt="thepseudonym - scanDetective">
+<a href="https://github.com/29fulcrum/scanDetective" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=29fulcrum&message=scanDetective&color=purple&logo=github" alt="29fulcrum - scanDetective">
 </a>
   <a href="https://discord.gg/VQUvAVpJPr" style="text-decoration: none;">
   <img src="https://discord.com/api/guilds/1336059889524670534/widget.png?style=shield" alt="Discord Shield"/>
@@ -25,6 +25,6 @@ Tool for scan your or not your😈 Wi-Fi network for connected devices
 2. [pcktSniffy](https://github.com/thepseudonym/pcktSniffy/)
 
 # License
-<a href="https://github.com/thepseudonym/scanDetective/blob/main/LICENSE" title="LICENSE">
+<a href="https://github.com/29fulcrum/scanDetective/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE"> 
 </a>
